@@ -1,0 +1,1956 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CleanBlog Pro\n"
+"POT-Creation-Date: 2018-05-18 10:07+0530\n"
+"PO-Revision-Date: 2018-05-18 10:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:7
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+"Il semble que nous ne puissions pas trouver ce que vous désirez. Peut-être "
+"qu'une recherche peut aider."
+
+#: archive.php:10
+msgid "Daily Archives :"
+msgstr "Archives quotidiennes :"
+
+#: archive.php:11 archive.php:16 archive.php:21 archive.php:26 archive.php:31
+#: category.php:8 search.php:8
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: archive.php:15
+msgid "Monthly Archives :"
+msgstr "Archives mensuelles :"
+
+#: archive.php:16
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:20
+msgid "Yearly Archives :"
+msgstr "Archives annuelles:"
+
+#: archive.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:25
+msgid "Author Archives :"
+msgstr "Archives de l'auteur :"
+
+#: archive.php:30
+msgid "Tag Archives :"
+msgstr "Archives de l'étiquette :"
+
+#: archive.php:34
+msgid "Archives"
+msgstr "Archives"
+
+#: category.php:8
+msgid "Browsing Category :"
+msgstr "Navigation dans la catégorie:"
+
+#: comments.php:4
+msgid "No Comments"
+msgstr "Aucun commentaires"
+
+#: comments.php:4 content.php:67 content.php:123 content.php:169
+#: content.php:256 content.php:299 inc/theme-functions.php:407
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: comments.php:4
+msgid "Comments"
+msgstr "Commentaires"
+
+#: comments.php:27
+msgid "Leave a Comment"
+msgstr "Laisser un Commentaire"
+
+#: comments.php:28
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: comments.php:29
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: content-none.php:5
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: content-none.php:7
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article ? <a href=\"%1$s\">Démarrer ici</a>."
+
+#: content-none.php:9
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, aucun résultat avec votre recherche. Essayez avec d'autres mots-clés."
+
+#: content-none.php:12
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne puissions pas trouver ce que vous désirez. Peut-être "
+"qu'une recherche peut aider."
+
+#: content-page.php:18 content-single.php:31 content-single2.php:31
+#: content-single3.php:40 content-single4.php:48
+msgid "Share This Post"
+msgstr "Partager cette publication"
+
+#: content.php:59 content.php:116 content.php:161 content.php:248
+#: content.php:291 inc/theme-functions.php:403
+msgid "By "
+msgstr "Par "
+
+#: content.php:67 content.php:123 content.php:169 content.php:256
+#: content.php:299 inc/theme-functions.php:407
+msgid "0 Comments"
+msgstr "0 commentaire"
+
+#: content.php:67 content.php:123 content.php:169 content.php:256
+#: content.php:299 inc/theme-functions.php:407
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: footer.php:4 inc/customize.php:568
+#, php-format
+msgid "Copyright 2015 CleanBlog | Theme by %s"
+msgstr "Copyright 2015 CleanBlogg | Thème par %s"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: header.php:112 header.php:186 inc/widgets.php:443
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installer l'extension: %s"
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l'extension: %s"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose semble incorrect avec l'API de l'extension."
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite l'extension suivante :  %1$s."
+msgstr[1] "Ce thème nécessite les extension suivantes :  %1$s."
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l’extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s."
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"L'extension suivante doit être mis à jour à sa version la plus récente pour "
+"assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] ""
+"Les extensions suivantes doivent être mis à jour à leur version la plus "
+"récente pour assurer une compatibilité maximale avec ce thème : %1$s."
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Une mise à jour est disponible pour: %1$s."
+msgstr[1] "Des mises à jours sont disponibles pour: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+"L'extension suivante est requise mais est actuellement inactive : %1$s."
+msgstr[1] ""
+"Les extensions suivantes sont requises mais sont actuellement inactive : "
+"%1$s."
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L'extension recommandée est actuellement inactive: %1$s."
+msgstr[1] "Les extensions recommandées sont actuellement inactives: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l'installation de l'extension"
+msgstr[1] "Commencer l'installation des extensions"
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencer la mise à jour de l'extension"
+msgstr[1] "Commencer la mise à jour des extensions"
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer à activer l'extension"
+msgstr[1] "Commencer à activer les extensions"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner à l'installateur de l'extension requise"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "L'extension a été activée avec succès."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L'extension suivante a été activé avec succès:"
+msgstr[1] "Les extensions suivantes ont été activées avec succès:"
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Pas de modification. L'extension %1$s est déjà active."
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Extension non activée. Une version plus récente de %s est requise pour ce "
+"thème. Veuillez mettre à jour cette extension."
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions sont installées et activées avec succès. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Ne tenez pas compte de cet avertissement"
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Il y a une ou plusieurs extensions nécessaire ou recommandée à installer, "
+"mettre à jour ou activer."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Veuillez s'il vous plait contacter l'administrateur de ce site pour de "
+"l'aide."
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Cette extension doit être mise à jour pour être compatible avec votre thème."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Le package de l'extension distant ne contient pas de dossier avec "
+"l'identifiant désiré et le renommage n'a pas fonctionné."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Veuillez contacter le fournisseur de l'extension et demandez-lui de "
+"conditionner son extension conformément aux instructions de WordPress."
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Le package de l'extension distante comprend plusieurs fichiers, mais les "
+"fichiers ne sont pas regroupés dans un dossier."
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requis"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Dépôt WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Ressource externe"
+
+# This word is not very French, but used by many French-speaking websites
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-packagé"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actif"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Mise à jour requise"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+# The same word for singular and plural?
+#  Addendum - Sorry, it's my fault: it seems always plural. So no otpions "singular/plural"
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toutes <span class=\"count\">(%s)</span>"
+msgstr[1] "Toutes <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Prête à installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Prêtes à installer <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Prête à activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Prêtes à activer <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnue"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Version installée:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version minimum requise:"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Version disponible:"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Pas d'extensions à installer, mettre à jour ou activer."
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+# Not clear to me. Is this a message from the author?
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de la part de l'auteur de l'extension:"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Aucune extension sélectionnée pour être installée. Pas d'action requise."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Aucune extension sélectionnée pour être mise à jour. Pas d'action requise."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Pas d'extension disponible pour être installée en ce moment."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Pas d'extension disponible pour être mise à jour en ce moment."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension sélectionnée pour être activée. Pas d'action requise."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension sélectionnée pour être activée. Pas d'action requise."
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension a échoué."
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur s'est produite lors de l'installation %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de  %1$s a échoué."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation commence. Ce processus peut "
+"prendre du temps sur certains hôtes, veuillez patienter."
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Afficher détails"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Masquer détails"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont terminées."
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"L'installation va commencer. Ceci peut prendre du temps selon l'hébergeur, "
+"veuillez patienter."
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès."
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont maintenant terminées."
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/customize.php:7
+msgid "All"
+msgstr "Toutes"
+
+#: inc/customize.php:79
+msgid "Social Links"
+msgstr "Liens des réseaux sociaux"
+
+#: inc/customize.php:87
+msgid ""
+"Set the URLs for your social media profiles here to be used in the header "
+"and footer. Keep the fields empty if you won't be using your social media "
+"profiles."
+msgstr ""
+"Définissez ici les URL de vos profils de médias sociaux à utiliser dans l'en-"
+"tête et le pied de page. Laissez les champs vides si vous n'utilisez pas vos "
+"profils de médias sociaux."
+
+#: inc/customize.php:100
+msgid "Show/Hide Header Social Icons"
+msgstr "Afficher/masquer les icônes de réseaux sociaux dans l'en-tête"
+
+#: inc/customize.php:105 inc/customize.php:124 inc/customize.php:433
+#: inc/customize.php:452 inc/customize.php:541 inc/customize.php:560
+#: inc/customize.php:632 inc/customize.php:759 inc/customize.php:778
+#: inc/customize.php:2155
+msgid "Show"
+msgstr "Afficher"
+
+#: inc/customize.php:106 inc/customize.php:125 inc/customize.php:434
+#: inc/customize.php:453 inc/customize.php:542 inc/customize.php:561
+#: inc/customize.php:633 inc/customize.php:760 inc/customize.php:779
+#: inc/customize.php:2156
+msgid "Hide"
+msgstr "Masquer"
+
+#: inc/customize.php:119
+msgid "Show/Hide Footer Social Icons"
+msgstr "Afficher/masquer les icônes de réseaux sociaux dans le pied de page"
+
+#: inc/customize.php:138
+msgid "Email"
+msgstr "Courriel"
+
+#: inc/customize.php:152
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customize.php:166
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customize.php:180
+msgid "Google +"
+msgstr "﻿Google +"
+
+#: inc/customize.php:194
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customize.php:208
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customize.php:222
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customize.php:236
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customize.php:250
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customize.php:264
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customize.php:278
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/customize.php:292
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customize.php:306
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+#: inc/customize.php:315 inc/customize.php:1810
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/customize.php:323
+msgid "Manage elements of header."
+msgstr "Gérer les élements de l'en-tête."
+
+#: inc/customize.php:337
+msgid "Header Layout Style"
+msgstr "Style de mise en page de l'en-tête"
+
+#: inc/customize.php:342
+msgid "Style 01 (Topbar W/ Menu + Below Logo)"
+msgstr "Style 01 (Barre supérieure avec menu + logo en-dessous)"
+
+#: inc/customize.php:343
+msgid "Style 02 (Topbar + Below Logo + Below Menu)"
+msgstr "Style 02 (Barre supérieure + logo en-dessous + menu en-dessous)"
+
+#: inc/customize.php:344
+msgid "Style 03 (Topbar W/ Menu + Logo left with Ad)"
+msgstr ""
+
+#: inc/customize.php:345
+msgid "Style 04 (Logo + Bottom bar)"
+msgstr ""
+
+#: inc/customize.php:346
+msgid "Style 05 (Inline Logo Menu &amp; Icons)"
+msgstr ""
+
+# "Téléverser" New word approved by Wordpress. Until now we had only one word for "Download" and "Upload"...
+#: inc/customize.php:358
+msgid "Upload Logo"
+msgstr "Téléverser un logo"
+
+#: inc/customize.php:372
+msgid "Logo Width (px)"
+msgstr "Largeur du logo (px)"
+
+#: inc/customize.php:386
+msgid "Logo Top Margin (px)"
+msgstr "Marge en-dessus du logo (px)"
+
+#: inc/customize.php:400
+msgid "Logo Bottom Margin (px)"
+msgstr "Marge sous le logo (px)"
+
+#: inc/customize.php:414
+msgid "Margin Between Logo and Tagline (px)"
+msgstr "Marge entre le logo et le slogan (px)"
+
+#: inc/customize.php:428
+msgid "Show/Hide Tagline"
+msgstr "Afficher/masquer le slogan"
+
+#: inc/customize.php:447
+msgid "Show/Hide Search Form"
+msgstr "Afficher/masquer le formulaire de recherche"
+
+#: inc/customize.php:466
+msgid "On/Off Sticky Top Bar"
+msgstr "Activer/désactiver le menu collant"
+
+#: inc/customize.php:471 inc/customize.php:1000
+msgid "On"
+msgstr "Activé"
+
+#: inc/customize.php:472 inc/customize.php:1001
+msgid "Off"
+msgstr "Désactivé"
+
+#: inc/customize.php:485
+msgid "Header Ad Code"
+msgstr ""
+
+#: inc/customize.php:494
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customize.php:502
+msgid ""
+"Adjust your site's footer settings and widget areas to the specific number "
+"desired, and turn on or off the various parts as needed."
+msgstr ""
+"Ajustez les paramètres de pied de page de votre site et les zones de widget "
+"au nombre spécifique souhaité, et activez ou désactivez les différentes "
+"parties si nécessaire."
+
+#: inc/customize.php:516
+msgid "Footer Widgets"
+msgstr "Widgets de pied de page"
+
+#: inc/customize.php:521
+msgid "None (Disables Footer Widgets)"
+msgstr "Non (désactive les Widgets de pied de page)"
+
+#: inc/customize.php:522
+msgid "One"
+msgstr "Un"
+
+#: inc/customize.php:523
+msgid "Two"
+msgstr "Deux"
+
+#: inc/customize.php:524
+msgid "Three"
+msgstr "Trois"
+
+#: inc/customize.php:536
+msgid "Show/Hide Footer Socket"
+msgstr "Afficher/masquer le bas du pied de page"
+
+#: inc/customize.php:555
+msgid "Show/Hide Footer Copyright"
+msgstr "Afficher/masquer le copyright du pied de page"
+
+#: inc/customize.php:574
+msgid "Copyright Content"
+msgstr "Contenu du copyright"
+
+#: inc/customize.php:583 inc/customize.php:2026
+msgid "Slider"
+msgstr "Diaporama"
+
+#: inc/customize.php:591
+msgid "Adjust your slider settings and customize slider posts."
+msgstr "Ajuster et personnaliser le diaporama."
+
+#: inc/customize.php:605
+msgid "Home Slider Type"
+msgstr "Type du daporama de la page d'accueil"
+
+#: inc/customize.php:610
+msgid "Default Slider (Single Image)"
+msgstr "Diaporama par défaut (Une image)"
+
+#: inc/customize.php:611
+msgid "Modern Carousel (3 Images)"
+msgstr "Moderne carrousel (3 images)"
+
+#: inc/customize.php:612
+msgid "Carousel Slider (3 Images)"
+msgstr "Diaporama carrousel (3 images)"
+
+#: inc/customize.php:613
+msgid "Carousel Slider (2 Images)"
+msgstr "Diaporama carrousel (2 images)"
+
+#: inc/customize.php:614
+msgid "Metro Slider (5 Images)"
+msgstr "Diaporama Metro (5 images)"
+
+#: inc/customize.php:627
+msgid "Show/Hide Slider"
+msgstr "Afficher/masquer le diaporama"
+
+#: inc/customize.php:646
+msgid "Slider Posts"
+msgstr "Articles du diaporama"
+
+#: inc/customize.php:651 inc/widgets.php:184 inc/widgets.php:257
+#: inc/widgets.php:360
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: inc/customize.php:652 inc/widgets.php:258 inc/widgets.php:361
+msgid "Popular Posts"
+msgstr "Articles populaires"
+
+#: inc/customize.php:653
+msgid "Random Posts"
+msgstr "Articles aléatoires"
+
+#: inc/customize.php:654
+msgid "Custom (Add Posts by IDs)"
+msgstr "Articles personalisé ( Ajouter les articles par ID)"
+
+#: inc/customize.php:667
+msgid "Slider Category"
+msgstr "Catégorie du diaporama"
+
+#: inc/customize.php:684
+msgid "Number of Posts"
+msgstr "Nombre d'articles"
+
+#: inc/customize.php:688
+msgid ""
+"Enter number of posts do you want show in the slider. Show all posts enter "
+"value \"-1\"."
+msgstr ""
+"Entrez le nombre d'articles que vous voulez afficher dans le diaporama. Pour "
+"afficher tous les articles entrez la valeur \"-1\"."
+
+#: inc/customize.php:701
+msgid "Posts IDs"
+msgstr "ID des articles"
+
+#: inc/customize.php:705
+msgid "Add your own posts Ids separated by comma. Ex: 8,12,17,25"
+msgstr "Ajoutez vos articles par ID, séparée par une virgule. Ex: 8,12,17,25"
+
+#: inc/customize.php:716
+msgid "Automatically Transition"
+msgstr "Transition automatique"
+
+#: inc/customize.php:721
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/customize.php:722
+msgid "No"
+msgstr "Non"
+
+#: inc/customize.php:735
+msgid "Transition Mode"
+msgstr "Mode de transition"
+
+#: inc/customize.php:740
+msgid "Slide"
+msgstr "Faire glisser"
+
+#: inc/customize.php:741
+msgid "Fade"
+msgstr "Fondu"
+
+#: inc/customize.php:754
+msgid "Show/Hide Slider Controls"
+msgstr "Afficher/masquer les contrôles du diaporama"
+
+#: inc/customize.php:773
+msgid "Show/Hide Date in the Slider"
+msgstr "Afficher/masquer la date dans le diaporama"
+
+#: inc/customize.php:792
+msgid "Transition Speed (ms)"
+msgstr "Vitesse de transition (ms)"
+
+#: inc/customize.php:806
+msgid "Pause Time (ms)"
+msgstr "Temps de pause (ms)"
+
+#: inc/customize.php:815
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/customize.php:823
+msgid "Select your site's layout options here and manage blog listing layouts."
+msgstr ""
+"Sélectionner les options de mise en page de votre site ici et gérez les "
+"mises en page de listes du blog."
+
+#: inc/customize.php:837
+msgid "Layout Type"
+msgstr "Type de mise en page"
+
+#: inc/customize.php:842
+msgid "Wide Layout"
+msgstr "Mise en page pleine largeur"
+
+#: inc/customize.php:843
+msgid "Box Layout"
+msgstr "Mise en page encadrée"
+
+#: inc/customize.php:856
+msgid "Default Layout"
+msgstr "Mise en page par défaut"
+
+#: inc/customize.php:861 inc/customize.php:881 inc/customize.php:902
+#: inc/customize.php:2174 inc/customize.php:2194
+msgid "Content Left, Sidebar Right"
+msgstr "Contenu à gauche, barre latérale à droite"
+
+#: inc/customize.php:862 inc/customize.php:882 inc/customize.php:903
+#: inc/customize.php:2175 inc/customize.php:2195
+msgid "Sidebar Left, Content Right"
+msgstr "Contenu à droite, barre latérale à gauche"
+
+#: inc/customize.php:863 inc/customize.php:883 inc/customize.php:904
+#: inc/customize.php:2176 inc/customize.php:2196
+msgid "Fullwidth"
+msgstr "Pleine largeur"
+
+#: inc/customize.php:875
+msgid "Home Page Layout"
+msgstr "Mise en page de la page d'accueil"
+
+#: inc/customize.php:880 inc/customize.php:901 inc/widgets.php:460
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/customize.php:896
+msgid "Single Post Layout"
+msgstr "Mise en page d'un article seul"
+
+#: inc/customize.php:920
+msgid "Content Width (px)"
+msgstr "Largeur du contenu (px)"
+
+#: inc/customize.php:921
+msgid "Enter value between 800px and 1400px."
+msgstr "Entrez une valeur entre 800px et 1400px."
+
+#: inc/customize.php:933
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customize.php:941
+msgid ""
+"Adjust the style and layout of your blog using the settings below. This will "
+"effect the posts index page and archive, or search results pages of your "
+"blog. "
+msgstr ""
+"Ajustez le style et la disposition de votre blog en utilisant les paramètres "
+"ci-dessous. Cela affectera la page d'index et l'archive des articles, ou les "
+"pages de résultats de recherche de votre blog. "
+
+#: inc/customize.php:955
+msgid "Blog Default Style"
+msgstr "Style par défaut du blog"
+
+#: inc/customize.php:960 inc/customize.php:980
+msgid "Standard Layout"
+msgstr "Mise en page standard"
+
+#: inc/customize.php:961 inc/customize.php:981
+msgid "List Layout"
+msgstr "Mise en page en liste"
+
+#: inc/customize.php:962 inc/customize.php:982
+msgid "Grid Layout"
+msgstr "Mise en page en grille"
+
+#: inc/customize.php:975
+msgid "Blog Archive Style"
+msgstr "Style des archives du blog"
+
+#: inc/customize.php:995
+msgid "First Full Post"
+msgstr ""
+
+#: inc/customize.php:1009
+msgid "Show/hide Elements in Posts List"
+msgstr "Afficher/masquer des éléments dans la liste des articles"
+
+#: inc/customize.php:1025 inc/customize.php:1165
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: inc/customize.php:1044 inc/customize.php:1184
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/customize.php:1064 inc/customize.php:1203
+msgid "Date"
+msgstr "Date"
+
+#: inc/customize.php:1083 inc/customize.php:1222
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/customize.php:1102 inc/customize.php:1240
+msgid "Comment Counts"
+msgstr "Compteur de commentaire"
+
+#: inc/customize.php:1119 inc/customize.php:1259
+msgid "Share Icons"
+msgstr "Icônes de partage"
+
+#: inc/customize.php:1134
+msgid "Single Page Template"
+msgstr "Modèle de page seul"
+
+#: inc/customize.php:1139
+msgid "Template 01"
+msgstr "Modèle 01"
+
+#: inc/customize.php:1140
+msgid "Template 02"
+msgstr "Modèle 02"
+
+#: inc/customize.php:1141
+msgid "Template 03"
+msgstr "Modèle 03"
+
+#: inc/customize.php:1142
+msgid "Template 04"
+msgstr "Modèle 04"
+
+#: inc/customize.php:1150
+msgid "Show/hide Elements in Single Post"
+msgstr "Afficher/masquer des éléments dans un article seul"
+
+#: inc/customize.php:1276
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/customize.php:1292
+msgid "Author Bio Info"
+msgstr "Informations sur l'auteur"
+
+#: inc/customize.php:1309
+msgid "Next Previous Posts"
+msgstr "Suivant et précédent article"
+
+#: inc/customize.php:1326
+msgid "Related Posts"
+msgstr "Articles similaires"
+
+#: inc/customize.php:1341
+msgid "Read More Text"
+msgstr "Texte: Lire la suite"
+
+#: inc/customize.php:1350
+msgid "Page"
+msgstr "Page"
+
+#: inc/customize.php:1359
+msgid "Adjust the style and layout of your page using the settings below."
+msgstr ""
+"Ajuster le style et la mise en page de votre page en utilisant les réglages "
+"ci-dessous."
+
+#: inc/customize.php:1374
+msgid "Show Share Icons"
+msgstr "Afficher les icônes de partage"
+
+#: inc/customize.php:1384
+msgid "Styles"
+msgstr "Styles"
+
+#: inc/customize.php:1391
+msgid "Main Styles"
+msgstr "Principaux styles"
+
+#: inc/customize.php:1407
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: inc/customize.php:1408
+msgid "Primary color for link, colored elements, etc.."
+msgstr "Couleur principale pour les liens, éléments colorés, etc."
+
+#: inc/customize.php:1424
+msgid "Secondary Color"
+msgstr "Couleur secondaire"
+
+#: inc/customize.php:1425
+msgid "Links hover, colored elements hover, etc.."
+msgstr "Liens survolés, couleur des éléments survolés, etc."
+
+#: inc/customize.php:1440
+msgid "Primary Background Color"
+msgstr "Couleur principale de l'arrière-plan"
+
+#: inc/customize.php:1441
+msgid "Background of some elements like widget titles, category links, etc.."
+msgstr ""
+"Arrière-plan de certains éléments comme les widget, lien des catégories, etc."
+
+#: inc/customize.php:1457
+msgid "Body Text Color"
+msgstr "Couleur principale du texte"
+
+#: inc/customize.php:1472
+msgid "Post Title Color"
+msgstr "Couleur du titre de l'article"
+
+#: inc/customize.php:1487
+msgid "Body Link Color"
+msgstr "Couleur des liens dans l'article"
+
+#: inc/customize.php:1502
+msgid "Body Link Hover Color"
+msgstr "Couleur des liens survolés dans l'article"
+
+#: inc/customize.php:1512
+msgid "Header Styles"
+msgstr "Styles de l'en-tête"
+
+#: inc/customize.php:1528
+msgid "Header Background Color"
+msgstr "Couleur de l'arrière-plan de l'en-tête"
+
+#: inc/customize.php:1543
+msgid "Menu Text Color"
+msgstr "Couleur du texte du menu"
+
+#: inc/customize.php:1558
+msgid "Menu Text Hover Color"
+msgstr "Couleur du texte du menu survolé"
+
+#: inc/customize.php:1573
+msgid "Menu Dividers Color"
+msgstr "Couleur des séparations du menu"
+
+#: inc/customize.php:1588
+msgid "Header Icons Color"
+msgstr "Couleur des icônes de l'en-tête"
+
+#: inc/customize.php:1603
+msgid "Header Icons Hover Color"
+msgstr "Couleur des icônes de l'en-tête survolées"
+
+#: inc/customize.php:1618
+msgid "Header Search Box Color"
+msgstr "Couleur du contenu du champ de recherche"
+
+#: inc/customize.php:1633
+msgid "Logo Text Color"
+msgstr "Couleur de texte du logo"
+
+#: inc/customize.php:1648
+msgid "Tagline Text Color"
+msgstr "Couleur de texte du slogan"
+
+#: inc/customize.php:1658
+msgid "Background Color"
+msgstr "Couleur de l'arrière-plan"
+
+#: inc/customize.php:1674
+msgid "Body Background Color"
+msgstr "Couleur principale de l'arrière-plan"
+
+#: inc/customize.php:1690
+msgid "Container Background Color"
+msgstr "Couleur d'arrière-plan du conteneur"
+
+#: inc/customize.php:1700
+msgid "Footer Styles"
+msgstr "Styles du pied-de-page"
+
+#: inc/customize.php:1716
+msgid "Foooter Widgets Background Color"
+msgstr "Couleur d'arrière-plan des widgets du pied de page"
+
+#: inc/customize.php:1732
+msgid "Foooter Widgets Text Color"
+msgstr "Couleur du texte des widgets du pied de page"
+
+#: inc/customize.php:1748
+msgid "Foooter Copyright Background Color"
+msgstr "Couleur d'arrière-plan du copyright du pied de page"
+
+#: inc/customize.php:1763
+msgid "Foooter Copyright Text Color"
+msgstr "Couleur du texte de copyright du pied de page"
+
+#: inc/customize.php:1779
+msgid "Footer Icons Color"
+msgstr "Couleur des icônes du pied de page"
+
+#: inc/customize.php:1795
+msgid "Footer Icons Hover Color"
+msgstr "Couleur des icônes survolées du pied de page"
+
+#: inc/customize.php:1803
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/customize.php:1825
+msgid "Menu Font"
+msgstr "Police du menu"
+
+#: inc/customize.php:1839
+msgid "Menu Font Size (px)"
+msgstr "Taille de la police du menu (px)"
+
+#: inc/customize.php:1854
+msgid "Logo Font"
+msgstr "Police du logo"
+
+#: inc/customize.php:1868
+msgid "Logo Font Size (px)"
+msgstr "Taille de la police du logo (px)"
+
+#: inc/customize.php:1883
+msgid "Tagline Font"
+msgstr "Police du slogan"
+
+#: inc/customize.php:1897
+msgid "Tagline Font Size (px)"
+msgstr "Taille de la police du slogan (px)"
+
+#: inc/customize.php:1906
+msgid "Body"
+msgstr "Corps"
+
+#: inc/customize.php:1921
+msgid "Body Font"
+msgstr "Corps du texte"
+
+#: inc/customize.php:1934
+msgid "Body Font Size (px)"
+msgstr "Taille du corps du texte (px)"
+
+#: inc/customize.php:1947
+msgid "Body Line Height (px)"
+msgstr "Hauteur de la ligne du corps (px)"
+
+#: inc/customize.php:1961
+msgid "Post List Line Height (px)"
+msgstr "Hauteur de ligne de la liste des articles (px)"
+
+#: inc/customize.php:1976
+msgid "Title Font"
+msgstr "Police du titre"
+
+#: inc/customize.php:1990
+msgid "Single Page/Post Title Font Size (px)"
+msgstr "Page seul/article seul, taille du titre (px)"
+
+#: inc/customize.php:2003
+msgid "List/Grid Layout Title Font Size (px)"
+msgstr "Mise en page liste/grille, taille du titre (px)"
+
+#: inc/customize.php:2016
+msgid "Standard Layout Title Font Size (px)"
+msgstr "Mise en page standard, taille du titre (px)"
+
+#: inc/customize.php:2041
+msgid "Slider Title Font"
+msgstr "Police du titre du diaporama"
+
+#: inc/customize.php:2053
+msgid "Slider Title Font Size (px)"
+msgstr "Taille de la police du titre du diaporama (px)"
+
+#: inc/customize.php:2063
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/customize.php:2077
+msgid "Widget Title Font"
+msgstr "Police de titre du widget"
+
+#: inc/customize.php:2089
+msgid "Widgets Title Font Size (px)"
+msgstr "Taille de la police de titre du widget (px)"
+
+#: inc/customize.php:2097
+msgid "Custom CSS"
+msgstr "Personnaliser le CSS"
+
+# Not clear for me: "Style" tag = balise ?
+#: inc/customize.php:2106
+msgid "Add your custom CSS code without \"Style\" tag."
+msgstr "Ajoutez votre code CSS personnalisé sans balise \"Style\"."
+
+#: inc/customize.php:2119
+msgid "Quick CSS"
+msgstr "CSS rapide"
+
+#: inc/customize.php:2128
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: inc/customize.php:2136
+msgid "These settings will affect to the WooCommerce plugin settings. "
+msgstr "Ces réglages affectent les réglages des extensions WooCommerce. "
+
+#: inc/customize.php:2150
+msgid "Show/Hide Header Cart Icon"
+msgstr "Afficher/masquer l'icône du panier dans l'en-tête"
+
+#: inc/customize.php:2169
+msgid "Products Archive Layout"
+msgstr "Mise en page des archives produits"
+
+#: inc/customize.php:2189
+msgid "Single Product page Layout"
+msgstr "Mise en page d'un produit seul"
+
+# Pre Page or Per Page ? I used "Per page"
+#: inc/customize.php:2213
+msgid "Products Pre Page in Archive"
+msgstr "Produits par page dans l'archive"
+
+#: inc/customize.php:2214
+msgid "Add your value between 1 and 100"
+msgstr "Ajouter votre valeur entre 1 et 100"
+
+#: inc/customize.php:2231
+msgid "Number of Columns for Archive"
+msgstr "Nombre de colonnes pour les archives"
+
+#: inc/customize.php:2236 inc/customize.php:2258 inc/customize.php:2280
+msgid "2 Column"
+msgstr "2 colonnes"
+
+#: inc/customize.php:2237 inc/customize.php:2259 inc/customize.php:2281
+msgid "3 Column"
+msgstr "3 colonnes"
+
+#: inc/customize.php:2238 inc/customize.php:2260 inc/customize.php:2282
+msgid "4 Column"
+msgstr "4 colonnes"
+
+#: inc/customize.php:2239 inc/customize.php:2261 inc/customize.php:2283
+msgid "5 Column"
+msgstr "5 colonnes"
+
+#: inc/customize.php:2240 inc/customize.php:2262 inc/customize.php:2284
+msgid "6 Column"
+msgstr "6 colonnes"
+
+# Up-Sells = Sales up ?
+#: inc/customize.php:2253
+msgid "Number of Columns for Related & Up-Sells"
+msgstr "Nombre de colonnes pour les ventes liées et les ventes à la hausse"
+
+#: inc/customize.php:2275
+msgid "Number of Columns for Gallery Thumbnails"
+msgstr "Nombre de colonnes pour les galeries de vignettes"
+
+#: inc/customize.php:2285
+msgid "8 Column"
+msgstr "8 colonnes"
+
+#: inc/theme-functions.php:48
+msgid "Just now"
+msgstr "En ce moment"
+
+# I need the context to translate
+#: inc/theme-functions.php:50
+#, php-format
+msgid "%s ago"
+msgstr "%s plus tôt"
+
+#: inc/theme-functions.php:67
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: inc/theme-functions.php:69
+msgid "Comment awaiting approval."
+msgstr "Commentaire en attente de modération."
+
+#: inc/theme-functions.php:73
+msgid "Reply"
+msgstr "Répondre"
+
+#: inc/theme-functions.php:74
+msgid "Edit"
+msgstr "Éditer"
+
+#: inc/theme-functions.php:304
+msgid "You May Also Like"
+msgstr "Vous pourriez aimer"
+
+#: inc/theme-functions.php:341
+msgid "Up Next"
+msgstr "Suivant"
+
+#: inc/theme-functions.php:352
+msgid "Previously"
+msgstr "Précédent"
+
+#: inc/widgets.php:5
+msgid "Main Sidebar"
+msgstr "Colonne latérale principale"
+
+#: inc/widgets.php:13
+msgid "Footer 1"
+msgstr "Pied de page 1"
+
+#: inc/widgets.php:21
+msgid "Footer 2"
+msgstr "Pied de page 2"
+
+#: inc/widgets.php:29
+msgid "Footer 3"
+msgstr "Pied de page 3"
+
+#: inc/widgets.php:37
+msgid "Instagram/Pinterest Footer"
+msgstr "Instagram/Pinterest pied de page"
+
+#: inc/widgets.php:45
+msgid "Shop Sidebar"
+msgstr "Colonne latérale du shop"
+
+#: inc/widgets.php:63
+msgid "ClanBlogg: Social Icons"
+msgstr "CleanBlogg: icônes des réseaux sociaux"
+
+#: inc/widgets.php:66
+msgid "A widget that displays social icons."
+msgstr "Widget pour afficher les icônes des réseaux sociaux."
+
+#: inc/widgets.php:92
+msgid "Follow Us"
+msgstr "Suivez-nous"
+
+#: inc/widgets.php:98 inc/widgets.php:193 inc/widgets.php:350
+#: inc/widgets.php:454 inc/widgets.php:555 inc/widgets.php:721
+msgid "Title:"
+msgstr "Titre:"
+
+#: inc/widgets.php:103
+msgid "Hide RSS Icon"
+msgstr "Masquer l'icône RSS"
+
+#: inc/widgets.php:105
+msgid "Note:"
+msgstr "Note:"
+
+#: inc/widgets.php:105
+msgid "Set your social links in the"
+msgstr "Régler vos liens sociaux dans le"
+
+#: inc/widgets.php:105
+msgid "Appearance &#187; Customize &#187; Social Links."
+msgstr "Apparence &#187; Personnaliser &#187; Liens sociaux."
+
+#: inc/widgets.php:121
+msgid "ClanBlogg: Posts List"
+msgstr "CleanBlogg: liste des articles"
+
+#: inc/widgets.php:124
+msgid "A widget that displays recent posts, popular posts & random posts."
+msgstr ""
+"Un widget pour afficher les articles récents, populaires et aléatoires."
+
+#: inc/widgets.php:168 inc/widgets.php:290 inc/widgets.php:322
+msgid "No Posts Found"
+msgstr "Aucun article trouvé"
+
+#: inc/widgets.php:197 inc/widgets.php:354
+msgid "Number of posts to show:"
+msgstr "Nombre d'articles à afficher:"
+
+#: inc/widgets.php:201
+msgid "Select Order:"
+msgstr "Sélectionner l'ordre:"
+
+#: inc/widgets.php:203
+msgid "Most Recent"
+msgstr "Les plus récents"
+
+#: inc/widgets.php:204
+msgid "Popular"
+msgstr "Populaires"
+
+#: inc/widgets.php:205
+msgid "Random"
+msgstr "Aléatoires"
+
+#: inc/widgets.php:209 inc/widgets.php:365
+msgid "Select Category:"
+msgstr "Sélectionner une catégorie:"
+
+#: inc/widgets.php:211 inc/widgets.php:367
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: inc/widgets.php:219 inc/widgets.php:375
+msgid "Hide Thumbnails"
+msgstr "Masquer les vignettes"
+
+#: inc/widgets.php:236
+msgid "ClanBlogg: Posts Tab"
+msgstr "CleanBlogg: onglet d'articles"
+
+#: inc/widgets.php:239
+msgid "A widget that displays recent posts & popular posts as tabs."
+msgstr ""
+"Un widget pour afficher comme onglet les articles récents et populaires."
+
+#: inc/widgets.php:341
+msgid "Posts on Tab"
+msgstr "Articles dans l'onglet"
+
+#: inc/widgets.php:358
+msgid "Activate a Tab:"
+msgstr "Activer un onglet:"
+
+#: inc/widgets.php:393
+msgid "ClanBlogg: About Me"
+msgstr "CleanBlogg: À propos de moi"
+
+#: inc/widgets.php:396
+msgid "A widget that displays a user's bio information."
+msgstr "Un widget pour afficher les informations de l'utilisateur."
+
+#: inc/widgets.php:458
+msgid "Template:"
+msgstr "Modèle:"
+
+#: inc/widgets.php:461
+msgid "Circle"
+msgstr "Cercle"
+
+#: inc/widgets.php:465 inc/widgets.php:643
+msgid "Image URL:"
+msgstr "URL de l'image:"
+
+#: inc/widgets.php:470
+msgid "About Me:"
+msgstr "À propos de moi:"
+
+#: inc/widgets.php:474
+msgid "Signature Image URL:"
+msgstr "URL de l'image de la signature:"
+
+#: inc/widgets.php:479
+msgid "Read More Text:"
+msgstr "Modifier le texte Lire la suite:"
+
+#: inc/widgets.php:484
+msgid "Read More Link:"
+msgstr "Lire la suite, lien:"
+
+#: inc/widgets.php:503
+msgid "ClanBlogg: Facebook Like Box"
+msgstr "CleanBlogg: Facebook Like Box"
+
+#: inc/widgets.php:506
+msgid "A widget that displays a facebook like box."
+msgstr "Un widget pour afficher une Facebook Like Box."
+
+#: inc/widgets.php:524
+msgid "Our Facebook Page"
+msgstr "Notre page Facebook"
+
+#: inc/widgets.php:543
+msgid "Find us on Facebook"
+msgstr "Retrouvez-nous sur Facebook"
+
+#: inc/widgets.php:559
+msgid "Facebook Page URL:"
+msgstr "URL de la page Facebook:"
+
+#: inc/widgets.php:561
+msgid "The URL of the Facebook Page. Eg:"
+msgstr "L'URL de la page Facebook. Ex:"
+
+#: inc/widgets.php:564
+msgid "Width:"
+msgstr "Largeur:"
+
+#: inc/widgets.php:566
+msgid "The pixel width of the plugin. Min. is 180 & Max. is 500"
+msgstr "La largeur en pixel de l'extension. Minimun 180 et max. 500"
+
+#: inc/widgets.php:569
+msgid "Height:"
+msgstr "Hauteur:"
+
+#: inc/widgets.php:571
+msgid "The pixel height of the plugin. Min. is 70"
+msgstr "La hauteur en pixel de l'extension. Min. 70"
+
+#: inc/widgets.php:575
+msgid "Show Friend's Faces"
+msgstr "Afficher les visages des amis"
+
+#: inc/widgets.php:578
+msgid "Show Page Posts"
+msgstr "Afficher les pages"
+
+#: inc/widgets.php:582
+msgid "Show Cover Photo"
+msgstr "Afficher l'image de couverture"
+
+#: inc/widgets.php:587
+msgid "Use Small Header"
+msgstr "Utiliser une petite en-tête"
+
+#: inc/widgets.php:604
+msgid "ClanBlogg: Ad Unit 300 x 250"
+msgstr "CleanBlogg: bloc d'annonce 300 x 250"
+
+#: inc/widgets.php:607
+msgid "A widget that displays google adsence Ad or banner Ad."
+msgstr ""
+"Un widget qui affiche une annonce Google Adsense ou une bannière "
+"publicitaire."
+
+#: inc/widgets.php:623
+msgid "Advertistment Banner"
+msgstr "Bannière de publicité"
+
+#: inc/widgets.php:647
+msgid "Link:"
+msgstr "Lien:"
+
+#: inc/widgets.php:651
+msgid "Adsence Code:"
+msgstr "Code Adsense:"
+
+#: inc/widgets.php:670
+msgid "ClanBlogg: MailChimp Subscribe"
+msgstr "CleanBlogg: MailChimp"
+
+#: inc/widgets.php:673
+msgid "A widget that displays a MailChimp subscribe form."
+msgstr "Un widget pour afficher un formulaire d'abonnement MailChimp."
+
+# Two dots at the end ?
+#: inc/widgets.php:693
+msgid "Your email address.."
+msgstr "Votre adresse courriel.."
+
+#: inc/widgets.php:712
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/widgets.php:712
+msgid ""
+"Sign up with your email address to be the first to know about new features, "
+"VIP offers & more. "
+msgstr ""
+"Inscrivez-vous avec votre adresse courriel pour être le premier à connaître "
+"les nouvelles fonctionnalités, les offres VIP et plus encore."
+
+#: inc/widgets.php:712
+msgid "Subscribe"
+msgstr "S'abonner"
+
+#: inc/widgets.php:725
+msgid "Message:"
+msgstr "Message:"
+
+#: inc/widgets.php:729
+msgid "MailChimp Form Action URL:"
+msgstr "URL du formulaire d'inscription MailChimp:"
+
+#: inc/widgets.php:733
+msgid "Button Text:"
+msgstr "Texte du bouton:"
+
+#: search.php:8
+msgid "Search results for :"
+msgstr "Résultats de recherche pour:"
+
+#: searchform.php:2
+msgid "Write and hit enter"
+msgstr "Écrivez et appuyez sur Entrée"
+
+#: updater/theme-updater-admin.php:240
+msgid "Error"
+msgstr "Erreur"
+
+#: updater/theme-updater-admin.php:271 updater/theme-updater-admin.php:318
+#: updater/theme-updater-admin.php:371
+msgid "An error occurred, please try again."
+msgstr "Une erreur s'est produite. Veuillez réessayer."
+
+#: updater/theme-updater-admin.php:285
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Votre clé de licence a expiré le %s."
+
+#: updater/theme-updater-admin.php:292
+msgid "Your license key has been disabled."
+msgstr "Votre clé de licence a été désactivée."
+
+#: updater/theme-updater-admin.php:297
+msgid "Invalid license."
+msgstr "Licence invalide."
+
+#: updater/theme-updater-admin.php:303
+msgid "Your license is not active for this URL."
+msgstr "Votre licence n’est pas active pour cette URL."
+
+#: updater/theme-updater-admin.php:308
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Cette clé de licence semble être invalide pour %s."
+
+#: updater/theme-updater-admin.php:313
+msgid "Your license key has reached its activation limit."
+msgstr "Votre clé de licence a atteint sa limite d'activation."
+
+#: updater/theme-updater.php:30
+msgid "Theme License"
+msgstr "Licence du thème"
+
+#: updater/theme-updater.php:31
+msgid "Enter your theme license key."
+msgstr "Entrer la clé de licence de votre thème."
+
+#: updater/theme-updater.php:32
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: updater/theme-updater.php:33
+msgid "License Action"
+msgstr "Action sur la licence"
+
+#: updater/theme-updater.php:34
+msgid "Deactivate License"
+msgstr "Désactiver la licence"
+
+#: updater/theme-updater.php:35
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#: updater/theme-updater.php:36 updater/theme-updater.php:49
+msgid "License status is unknown."
+msgstr "Le status de la licence est inconnu."
+
+#: updater/theme-updater.php:37
+msgid "Renew?"
+msgstr "Renouveler?"
+
+#: updater/theme-updater.php:38
+msgid "unlimited"
+msgstr "illimité"
+
+#: updater/theme-updater.php:39
+msgid "License key is active."
+msgstr "La clé de licence est active."
+
+#: updater/theme-updater.php:40
+#, php-format
+msgid "Expires %s."
+msgstr "Expire %s."
+
+#: updater/theme-updater.php:41
+msgid "Lifetime License."
+msgstr "Licence à vie."
+
+#: updater/theme-updater.php:42
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Vous avez %1$s / %2$s sites activés."
+
+#: updater/theme-updater.php:43
+#, php-format
+msgid "License key expired %s."
+msgstr "La clé de licence a expiré %s."
+
+#: updater/theme-updater.php:44
+msgid "License key has expired."
+msgstr "Clé de licence expirée."
+
+#: updater/theme-updater.php:45
+msgid "License keys do not match."
+msgstr "Clé de licence non conforme."
+
+#: updater/theme-updater.php:46
+msgid "License is inactive."
+msgstr "Licence inactive."
+
+#: updater/theme-updater.php:47
+msgid "License key is disabled."
+msgstr "Clé de licence désactivée."
+
+#: updater/theme-updater.php:48
+msgid "Site is inactive."
+msgstr "Le site est inactif."
+
+#: updater/theme-updater.php:50
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"La mise à jour de ce thème vous fera perdre toutes les personalisations que "
+"vous avez effectuées. \"Annuler\" pour arrêter, \"OK\" pour mettre à jour."
+
+#: updater/theme-updater.php:51
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+"<strong>%1$s %2$s</strong> est disponible. <a href=\"%3$s\" class=\"thickbox"
+"\" title=\"%4s\">Découvrez les nouveautés</a> ou <a href=\"%5$s\"%6$s>mettre "
+"à jour maintenant</a>."
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Catégorie:"
+msgstr[1] "Catégories:"
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Étiquette:"
+msgstr[1] "Étiquettes:"
+
+#. Theme Name of the plugin/theme
+msgid "CleanBlog Pro"
+msgstr "CleanBlogg Pro"
+
+#. Theme URI of the plugin/theme
+msgid "http://airthemes.net/cleanblog"
+msgstr "https://airthemes.net/cleanblogg"
+
+#. Description of the plugin/theme
+msgid ""
+"CleanBlog theme is designed for all kind of blogs such as fashion blog, "
+"lifestyle blog, travel blog, food & recipe blog, photography blog, simple "
+"magazine, diaries or any other blogging website.CleanBlog theme is clean, "
+"latest design, easy to customizable, bootstrap based fully responsive for "
+"any devices  and it has powerful custom widgets and customizer theme "
+"options. There are many features- standard, Grid, and lists layouts,Left and "
+"right sidebar, custom sidebar widgets and footer widgets, and much more.."
+msgstr ""
+"Le thème CleanBlogg est conçu pour tous les types de blogs tels que blog de "
+"mode, Lifestyle, blog de voyage, blog de cuisine et de recette, blog de "
+"photographie, magazine simple, journal ou n'importe quel autre site web de "
+"blogs. CleanBlogg est propre, au design actuel, facile à personnaliser, "
+"compatible SEO, basé sur Bootstrap totalement adaptatif pour tout types "
+"d'écrans (desktop, tablette, smartphone) et il possède de puissants widgets "
+"personnalisés et options de personnalisation. Il y a de nombreuses "
+"fonctionnalités de mise en page - standard, grille et liste -, barre "
+"latérale gauche et droite, des widgets de barre latérale personnalisés, des "
+"widgets de pied de page, et bien plus encore..."
+
+#. Author of the plugin/theme
+msgid "AirThemes"
+msgstr "AirThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://airthemes.net/"
+msgstr "https://airthemes.net/"
+
+#~ msgid "Transition\tMode"
+#~ msgstr "Mode de transition"
+
+#~ msgid ""
+#~ "CleanBlog theme is designed for all kind of blogs such as fashion blog, "
+#~ "lifestyle blog,  travel blog, food & recipe blog, photography blog,  "
+#~ "simple magazine, diaries or any other blogging website.CleanBlog theme is "
+#~ "clean, latest design, easy to customizable, bootstrap based fully "
+#~ "responsive for any devices  and it has powerful custom widgets and "
+#~ "customizer theme options.There are many features- standard, Grid, and "
+#~ "lists layouts,Left and right sidebar, custom sidebar widgets and footer "
+#~ "widgets, and much more.."
+#~ msgstr ""
+#~ "Le thème CleanBlogg est conçu pour tous les types de blogs tels que blog "
+#~ "de mode, Lifestyle, blog de voyage, blog de cuisine et de recette, blog "
+#~ "de photographie, magazine simple, journal ou n'importe quel autre site "
+#~ "web de blogs. CleanBlogg est propre, au design actuel, facile à "
+#~ "personnaliser, compatible SEO, basé sur Bootstrap totalement adaptatif "
+#~ "pour tout types d'écrans (desktop, tablette, smartphone) et il possède de "
+#~ "puissants widgets personnalisés et options de personnalisation. Il y a de "
+#~ "nombreuses fonctionnalités de mise en page - standard, grille et liste -, "
+#~ "barre latérale gauche et droite, des widgets de barre latérale "
+#~ "personnalisés, des widgets de pied de page, et bien plus encore..."

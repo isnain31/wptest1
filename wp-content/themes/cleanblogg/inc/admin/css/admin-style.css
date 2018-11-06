@@ -1,0 +1,94 @@
+#cb-info .cb-row .cb-span-4{
+	display: inline-block;
+	width: 33.3333%;
+	float: left;	
+	}
+#cb-info .cb-row{
+	clear:both;
+	}
+#cb-info .cb-row .cb-info-box h3{
+	margin-top:0px;
+	}
+#cb-info .cb-row .cb-info-box{
+	border: 1px solid #ddd;
+	padding: 15px;
+	border-radius: 2px;
+	margin-right: 20px;
+	margin-top: 20px;	
+	}
+#cb-info .cb-row .cb-info-box p.cb-info-button{
+	margin-bottom:0px;
+	}
+#cb-info .cb-span-4.cb-lg .cb-info-box{
+	min-height:115px;
+	}	
+#cb-info .clearfix{
+	clear:both;
+	}
+#cb-info .cb-box-area{
+	margin-bottom:20px;
+	}
+#cb-info .free-vs-pro td, #cb-info .free-vs-pro th{
+	text-align:center;
+	}
+#cb-info .free-vs-pro tr td:last-child{
+	background-color:#58C5E6;
+	border-bottom: 1px solid #fff;
+	color: #fff;
+	}
+#cb-info .free-vs-pro tr th + td{
+	background-color: #f6f6f6;
+	border-bottom: 1px solid #fff;
+	}
+#cb-info .free-vs-pro tr th + td .dashicons-yes{
+	color:#11BA81;
+	}
+#cb-info .free-vs-pro tr th + td .dashicons-no-alt{
+	color:#DE7073;
+	}
+#cb-info .free-vs-pro .free-vs-pro-header th{
+color: #fff;
+font-weight: bold;
+text-transform: uppercase;
+	}
+#cb-info .free-vs-pro .free-vs-pro-header .pro{
+	background-color: #00A3CE;
+	}
+#cb-info .free-vs-pro .free-vs-pro-header .free{
+	background-color: #666;
+	}
+#cb-info .free-vs-pro tr{
+	border: 1px solid #ccc;
+	}
+#cb-info .free-vs-pro .th-items{
+	text-align:right;
+	}
+#cb-info .free-vs-pro{
+	max-width: 700px;
+	}
+#cb-info .free-vs-pro{
+	margin-top: 10px;
+	}
+#cb-info .free-vs-pro .buy-pro {
+    background-color: #11ba81;
+    color: #fff;
+    width: 100%;
+    display: block;
+    padding: 10px 0;
+    max-width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#cb-info .free-vs-pro .button-row th{
+	padding:0px;
+	}
+.wp-full-overlay.section-open .customizer-buttons{
+	display:none!important;
+	}
+
+@media only screen and (max-width:767px){
+#cb-info .cb-row .cb-span-4{
+	float:none;
+	width:100%;
+	}	
+	}
